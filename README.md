@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Ashwin</h1>
-<h3 align="center">An SDE-3 Full Stack Developer from India</h3>
+<h3 align="center">An Full Stack Architect from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashwinachu10&label=Profile%20views&color=0e75b6&style=flat" alt="sashwinachu10" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashwinachu10" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinachu10?logo=twitter&style=for-the-badge" alt="ashwinachu10" /></a> </p>
 
-- 🔭 I’m currently working on **CoxAutoInc**
+- 🔭 I’m currently working on **MongoDB**
 
 - 👯 I’m looking to collaborate on **Any Stack**
 
